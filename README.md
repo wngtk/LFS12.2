@@ -1,7 +1,9 @@
 # Linux From Scratch 12.2 Systemd 留念
 
-![boot_failed.png](./boot_failed.png | width=50%)
-![result.png](./result.png | width=50%)
+<img src="./boot_failed.png" width="49%">
+<img src="./result.png" width="50%">
+
+<br/>
 
 Linux From Scratch 12.2 Systemd 总耗时约一周完结。写下这篇以作留念。
 

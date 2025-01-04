@@ -1,7 +1,6 @@
 # Linux From Scratch 12.2 Systemd 留念
 
-<img src="./boot_failed.png" width="49%">
-<img src="./result.png" width="50%">
+<img src="./boot_failed.png" width="48%"><img src="./result.png" width="50%">
 
 <br/>
 

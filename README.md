@@ -19,7 +19,7 @@ Windows 11 家庭版启用 Hyper-V 可以使用这个脚本： [Hyper-V.bat](./H
 
 <details>
 <summary>下载源码包的提示</summary>
-在 Arch Linux 上，`mkfs.fat`  在 dosfstools 这个包里。
+在 Arch Linux 上，<code>mkfs.fat</code> 在 <code>dosfstools</code> 这个包里。
 
 **LFS 网站阅读不是很方便**。阅读 PDF 和单 HTML 会更方便一点，点 LFS 后可以在左侧点击 Download 找到想要看的版本的离线版，HTML NOCHOUNK 版就比分页的阅读方便。
 
